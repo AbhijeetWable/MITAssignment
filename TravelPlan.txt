@@ -4,6 +4,7 @@ Packing Item List
 ------------------
 - Shoes
 - Coat
+- Camera
 
 Picnic List
 -----------------
